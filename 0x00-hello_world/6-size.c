@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main-A C program that prints the size of various types on the computer
-*return 0
+* main - A C program that prints the size of various types of varriables
+* Return: 0 (great)
 */
 int main(void)
 {
